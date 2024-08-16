@@ -32,6 +32,7 @@ github_username: voltai-dev
 
 # Build settings
 theme: minima
+#theme: jekyll-theme-instagram
 plugins:
   - jekyll-feed
 
@@ -54,3 +55,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - notused

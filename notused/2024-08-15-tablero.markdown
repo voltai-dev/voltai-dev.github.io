@@ -1,0 +1,12 @@
+---
+layout: post
+title: Tablero domiciliario
+date: 2024-08-15
+archive_date: 2024-08-15
+thumbnail: docs/assets/images/tablero.jpg
+media:
+- type: image
+  url: docs/assets/images/tablero.jpg
+---
+
+Tablero eléctrico domiciliario. Este tablero essuficiente paa una casa de 3 habitaciones con un consumo promedio. 
