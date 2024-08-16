@@ -21,9 +21,9 @@
 title: Voltai
 email: contacto@voltai.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Voltai es un emprendimeinto pensado en entregar un servicio equilibrado
-  y de calidad en instalaciones domésticas. Queremos ofrecer una buena
-  combinacion entre calidad, precio y plazos.
+  Voltai es un emprendimiento pensado en entregar un servicio equilibrado
+  en instalaciones domésticas. Queremos ofrecer una buena combinacion entre
+  calidad, precio y plazos.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
